@@ -1,0 +1,1 @@
+# aligned_genomes_diff_same_region script content

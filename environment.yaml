@@ -1,0 +1,11 @@
+// environment.yml
+name: mtb_refgen_env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - pandas
+  - biopython
+  - minimap2
+  - bedtools
