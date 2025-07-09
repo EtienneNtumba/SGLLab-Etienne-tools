@@ -139,15 +139,12 @@ dependencies:
 
 ---
 
-## 👤 Authors
+###  👤 Authors
 
-**Etienne Kabongo Ntumba**  
-Postgrad student in Bioinformatics – University of Montreal  
+Etienne Kabongo Ntumba - Postgrad student in Bioinformatics – University of Montreal  
 📧 etienne.ntumba.kabongo@umontreal.ca  
-** Prof.Simon GRANDJEAN-LAPIERRE **
-Associate Professor in the Microbiology, Infectious Diseases and Immunology Department of Université de Montréal
-** Prof.Martin SMITH **
-computational biologist specialising in transcriptomics, UNSW Sydney 
+Prof.Simon GRANDJEAN-LAPIERRE - Associate Professor in the Microbiology, Infectious Diseases and Immunology Department of Université de Montréal
+Prof.Martin SMITH - computational biologist specialising in transcriptomics, UNSW Sydney 
 ---
 
 ## 📜 License
