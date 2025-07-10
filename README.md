@@ -138,14 +138,17 @@ dependencies:
 - Freschi et al. (2021). *Population structure, biogeography and transmissibility of Mycobacterium tuberculosis*. [DOI](https://doi.org/10.1038/s41586-020-2895-3)
 
 ---
+## Authors
 
-## 👤 Authors
+**Etienne Ntumba Kabongo**  
+📧 Email: [etienne.ntumba.kabongo@umontreal.ca](mailto:etienne.ntumba.kabongo@umontreal.ca)  
+🔗 GitHub: [EtienneNtumba](https://github.com/EtienneNtumba)
+** Prof. SIMON GRANDJEAN-LAPIERRE **
+Prof. SIMON GRANDJEAN-LAPIERRE - Associate professor in the Microbiology, Infectious Diseases and Immunology Department of Université de Montréal
+** Prof.Martin SMITH **
+Prof.Martin SMITH - computational biologist specialising in transcriptomics, UNSW Sydney
 
-Etienne Kabongo Ntumba - Postgrad student in Bioinformatics – University of Montreal  
-📧 etienne.ntumba.kabongo@umontreal.ca  
-Prof.Simon GRANDJEAN-LAPIERRE - Associate Professor in the Microbiology, Infectious Diseases and Immunology Department of Université de Montréal
-Prof.Martin SMITH - computational biologist specialising in transcriptomics, UNSW Sydney 
----
+
 
 ## 📜 License
 
