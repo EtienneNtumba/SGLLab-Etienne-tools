@@ -143,8 +143,10 @@ dependencies:
 **Etienne Ntumba Kabongo**  
 📧 Email: [etienne.ntumba.kabongo@umontreal.ca](mailto:etienne.ntumba.kabongo@umontreal.ca)  
 🔗 GitHub: [EtienneNtumba](https://github.com/EtienneNtumba)
+
 ** Prof. SIMON GRANDJEAN-LAPIERRE **
 Prof. SIMON GRANDJEAN-LAPIERRE - Associate professor in the Microbiology, Infectious Diseases and Immunology Department of Université de Montréal
+
 ** Prof.Martin SMITH **
 Prof.Martin SMITH - computational biologist specialising in transcriptomics, UNSW Sydney
 
