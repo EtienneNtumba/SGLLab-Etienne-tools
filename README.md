@@ -139,7 +139,7 @@ dependencies:
 
 ---
 
-###  👤 Authors
+## 👤 Authors
 
 Etienne Kabongo Ntumba - Postgrad student in Bioinformatics – University of Montreal  
 📧 etienne.ntumba.kabongo@umontreal.ca  
